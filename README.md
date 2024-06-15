@@ -12,13 +12,13 @@ This project showcases an efficient implementation of a Queue using a linked lis
 </p>
 
 <p align="center">
-  <img alt="License" src="https://i.gifer.com/P09U.gif">
+  <img alt="License" src="https://imgur.com/carbon-AHGgdwU">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src="https://imgur.com/carbon-AHGgdwU" width="100%">
+  <img alt="calendario da copa" src="https://i.gifer.com/P09U.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias

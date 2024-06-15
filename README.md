@@ -40,7 +40,7 @@ A Queue is a fundamental data structure used in various programming scenarios, p
 ## 🔖 Layout
 
 🤩 Prints/Models of the project clicking here:[HERE](https://imgur.com/carbon-AHGgdwU).<br>
-⛏️ My Linkedin: [HERE](https://www.linkedin.com/in/pedroigorcc/).
+⛏️ My Linkedin: [HERE](https://www.linkedin.com/in/pedroigorcc/).<br>
 📲 Video in Youtube: [HERE](https://www.youtube.com/watch?v=2nZeI6YFvfA&t=4s).
 
 ## :memo: Licença

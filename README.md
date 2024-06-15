@@ -18,7 +18,7 @@ This project showcases an efficient implementation of a Queue using a linked lis
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src="https://imgur.com/SnAmim5" width="100%">
+  <img alt="calendario da copa" src="https://i.imgur.com/L63Biq5.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias

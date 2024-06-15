@@ -12,7 +12,7 @@ This project showcases an efficient implementation of a Queue using a linked lis
 </p>
 
 <p align="center">
-  <img alt="License" src="https://i.gifer.com/P09U.gif">
+  <img alt="License" src="https://miro.medium.com/v2/resize:fit:1104/1*S2HaWob-b1tBahBoyIv38g.gif">
 </p>
 
 <br>
